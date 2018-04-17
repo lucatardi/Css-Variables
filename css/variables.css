@@ -1,13 +1,15 @@
 /* VARIABLES ------------------------------------------------- */
 :root { /* tag html */
+  /* colors */
   --color-primary            : #278da4;
   --color-secondary          : #b13c69;
-
   --color-bg                 : #3acec2;
   --color-bg-light           : #009fe1;
-
   --gradient                 : var(--color-bg),
                                var(--volor-bg-light);
+
+  /* fonts */
+  --font-primary             : 16px;
 
 
 }
